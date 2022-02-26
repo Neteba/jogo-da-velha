@@ -8,7 +8,7 @@ app-tic-tac-toe table {
 app-tic-tac-toe td {
   border: 2px solid black;
   width: 2em;
-  height: em;
+  height: 2em;
   text-align: center;
   vertical-align: middle;
 }
